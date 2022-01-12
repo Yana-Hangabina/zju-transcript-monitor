@@ -8,6 +8,12 @@
 
 ## Usage
 
+### Windows
+
+下载最新[Releases](https://github.com/Yana-Hangabina/zju-transcript-monitor/releases)，开箱即用。
+
+### Others
+
 1. clone 本项目（为了加快 clone 速度，可以指定 clone 深度`--depth 1`，只克隆最近一次 commit），并 cd 到本目录
     ```bash
     $ git clone https://github.com/Yana-Hangabina/zju-transcript-monitor.git --depth 1
