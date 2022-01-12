@@ -3,7 +3,7 @@
 考试周结束了，摸个浙大出分监控器
 
 - 魔改自[ZJU-nCov-Hitcarder](https://github.com/QSCTech-Sange/ZJU-nCov-Hitcarder)项目
-- 数据接口来自[浙江大学三全育人学生信息平台](https://github.com/QSCTech-Sange/ZJU-nCov-Hitcarder)
+- 数据接口来自[浙江大学三全育人学生信息平台](http://eta.zju.edu.cn/)
 - 项目用于学习交流，默认5分钟查询一次，请勿改得太小不然把ETA土豆服务器刷炸了就不妙了
 
 ## Usage
